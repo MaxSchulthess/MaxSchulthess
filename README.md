@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 My name is Max
+- I'm currently enrolled at the ETH Zuerich
+- I completed my bachelors in Mech. Eng.
 
 <!--
 **MaxSchulthess/MaxSchulthess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
